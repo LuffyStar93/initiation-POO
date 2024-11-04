@@ -13,7 +13,7 @@ export class Model<P extends HasId>{
     get = this.attributes.get
     on = this.event.on
     trigger = this.event.trigger
-
+    
     set(update: P) {
         this.attributes.set(update);
         this.event.trigger('change');

@@ -2,17 +2,17 @@
   "users": [
     {
       "id": "925d",
-      "nom": "Alice",
+      "name": "Alice",
       "age": 22
     },
     {
       "id": "349f",
-      "nom": "John",
+      "name": "John",
       "age": 28
     },
     {
       "id": "204l",
-      "nom": "Doe",
+      "name": "Doe",
       "age": 34
     },
     {

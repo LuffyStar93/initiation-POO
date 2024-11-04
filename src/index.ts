@@ -8,7 +8,6 @@ if(rootElement){
 
     const userEdit = new UserEdit(rootElement, john)
     userEdit.render();
-    console.log(userEdit)
 }
 
 
